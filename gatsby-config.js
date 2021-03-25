@@ -1,34 +1,34 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `NirnTurt.Design`,
+    name: `NirnTurt.Design`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `你好，这里是NirnTurt的UI/UX作品集`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `欢迎来到NirnTurt\`Design<br/>这里是NirnTurt的UI/UX作品集`,
+      maxWidth: 700,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        name: `mailto`,
+        url: `mailto:elvlxla@gmail.com`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/NirnTurt`,
       },
+      {
+        name: `behance`,
+        url: `https://www.behance.net/ivxe`,
+      },
+      {
+        name: `instagram`,
+        url: `https://www.instagram.com/nirnturt/`,
+      },
+      {
+        name: `github`,
+        url: `https://github.com/Nirnturt`,
+      }
     ],
   },
   plugins: [
