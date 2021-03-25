@@ -1,1 +1,1 @@
-This is my Design Blog
+This is NirnTurt design blog.
